@@ -30,11 +30,13 @@ git clone https://github.com/spk-777N/Scripts.git
 1. Install the requirements file:
 
 ```
+sudo chmod +x requirements.sh
 sudo ./requirements.sh
 ```
 
 2. Run the script:
 
 ```
+sudo chmod +x subs-discovery.sh
 sudo ./subs-discovery.sh
 ```
